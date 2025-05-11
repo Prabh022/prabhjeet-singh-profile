@@ -2,7 +2,7 @@
 
 🎓 Graduate of the Computer Programming diploma program at Seneca College – with a strong foundation in software development, web technologies, and database management.
 
-🧠 I’ve built full-stack projects, optimized databases, and collaborated on real-world software initiatives. While most of my code is stored in **private repositories**, I’m happy to provide access upon request.
+🧠 I’ve built full-stack projects, optimized databases, and collaborated on real-world software initiatives. While most of my code or my work is stored in **private repositories**, I’m happy to provide access upon request.
 
 ---
 
